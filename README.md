@@ -32,7 +32,6 @@ Please adhere to this project's `code of conduct`.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://psychodev.quebitml.com)
-
 [![linkedin](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YsvByDYFTA)
 
 
